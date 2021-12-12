@@ -7,14 +7,7 @@
 <body>
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero">
-    <div class="hero-container">
-      <a href="index.html" class="hero-logo" data-aos="zoom-in"><img src="assets/img/hero-logo.png" alt=""></a>
-      <h1 data-aos="zoom-in">Welcome To Knight Studios</h1>
-      <h2 data-aos="fade-up">We are team of talented designers making websites with Bootstrap</h2>
-      <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started scrollto">Get Started</a>
-    </div>
-  </section><!-- End Hero -->
+<!-- End Hero -->
 
   <main id="main">
 
@@ -23,33 +16,26 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>About Us</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur</p>
+          <h2>O que somos nós?</h2>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
             <div class="image">
-              <img src="{{asset('img/about.jpg')}}" class="img-fluid" alt="">
+              <img src="{{asset('img/about_04.jpg')}}" class="img-fluid" alt="">
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-left">
             <div class="content pt-4 pt-lg-0 pl-0 pl-lg-3 ">
-              <h3>Voluptatem dignissimos provident quasi corporis</h3>
+              <h3>LabTraders</h3>
               <p class="fst-italic">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-                magna aliqua.
+                Somos uma equipa que oferece algo diferente para quem quer trabalhar com o mercado financeiro.
               </p>
               <ul>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-                <li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-                <li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+                <li><i class="bx bx-check-double"></i> Nosso objetivo é fazer com que você entenda como o mecanismo do mercado funciona.</li>
+                <li><i class="bx bx-check-double"></i> Sem falsas expectativas ou falsas promessas queremos fazer com que você se capacite para tomar suas próprias decisões no mercado.</li>
+                <li><i class="bx bx-check-double"></i> Temos disponíveis o treinamento voltado para o nosso operacional e nossa mentoria que é o acompanhamento de perto do seu desenvolvimento. Maiores detalhes contate-nos.</li>
               </ul>
-              <p>
-                Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                culpa qui officia deserunt mollit anim id est laborum
-              </p>
             </div>
           </div>
         </div>

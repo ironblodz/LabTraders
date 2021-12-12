@@ -16,7 +16,6 @@
       
         <!-- Favicons -->
         <link href="{{asset('img/favicon.png')}}" rel="icon">
-        <link href="{{asset('img/apple-touch-icon.png')}}" rel="apple-touch-icon">
         <link rel="stylesheet" href="{{asset('css/style.css') }}">
         <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Montserrat:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -35,6 +34,16 @@
 </head>
 
 <body>
+    <section id="hero">
+        <div class="hero-container">
+          <a href="index.html" class="hero-logo" data-aos="zoom-in"><img src="{{asset('img/favicon.png')}}" alt=""></a>
+          <h1 data-aos="zoom-in">Bem-vindo</h1>
+          <h2 data-aos="fade-up">Análise Técnica / Psicologia de Mercado / Gestão do Capital </h2>
+          <h2 data-aos="fade-up">Forex / Criptomoedas / Ações </h2>
+          <a data-aos="fade-up" data-aos-delay="200" href="#about" class="btn-get-started scrollto">Open Your Mind</a>
+        </div>
+      </section>
+
     @include('layout.partials.navbar')
 
     @yield('content')

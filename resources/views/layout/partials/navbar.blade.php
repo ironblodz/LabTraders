@@ -10,14 +10,14 @@
           <li>
             <a class="nav-link scrollto active" href="{{route('gm.index')}}">Home</a>
         </li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#about">Sobre</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
+          <li><a class="nav-link scrollto" href="#team">Equipa</a></li>
+          <li><a class="nav-link scrollto" href="#pricing">Treinamentos</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a></li>
           <li>
-            <a class="nav-link scrollto" href="{{route('gm.contact')}}">Contact</a>
+            <a class="nav-link scrollto" href="{{route('gm.contact')}}">Contacto</a>
         </li>
         
         <i class="bi bi-list mobile-nav-toggle"></i>
