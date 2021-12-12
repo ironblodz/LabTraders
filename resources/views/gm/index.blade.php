@@ -599,7 +599,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>Frequently Asked Questions</h2>
+          <h2>Perguntas mais frequentes</h2>
         </div>
 
         <ul class="faq-list">
@@ -664,11 +664,11 @@
     </section><!-- End Frequently Asked Questions Section -->
 
     <!-- ======= Contact Section ======= -->
-    <section id="contact" class="contact section-bg">
+    <section id="contacto" class="contacto section-bg">
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>Contacto</h2>
           <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
         </div>
 

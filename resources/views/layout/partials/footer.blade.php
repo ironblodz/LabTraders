@@ -7,16 +7,16 @@
 
         <div class="row justify-content-center">
           <div class="col-lg-6">
-            <a href="#header" class="scrollto footer-logo"><img src="assets/img/hero-logo.png" alt=""></a>
-            <h3>Knight</h3>
-            <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+            <a href="#header" class="scrollto footer-logo"><img src="{{asset('img/favicon.png')}}" alt=""></a>
+            <h3>Lab Traders</h3>
+            <p>Quer receber todas as novidades? Insira o seu email no formulário abaixo e subscreva</p>
           </div>
         </div>
 
         <div class="row footer-newsletter justify-content-center">
           <div class="col-lg-6">
             <form action="" method="post">
-              <input type="email" name="email" placeholder="Enter your Email"><input type="submit" value="Subscribe">
+              <input type="email" name="email" placeholder="Insira o seu email"><input type="submit" value="Subscreva">
             </form>
           </div>
         </div>
@@ -34,13 +34,7 @@
 
     <div class="container footer-bottom clearfix">
       <div class="copyright">
-        &copy; Copyright <strong><span>Knight</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        Designed by <a href="https://bootstrapmade.com/" target="_blank">BootstrapMade</a>
-      </div>
-      <div class="credits">
-        Distributed by <a href="https://themewagon.com/" target="_blank">Themewagon</a>
+        &copy; Copyright <strong><span>Lab Traders</span></strong>. All Rights Reserved
       </div>
     </div>
   </footer><!-- End Footer -->

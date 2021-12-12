@@ -15,7 +15,6 @@
           <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="#team">Equipa</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Treinamentos</a></li>
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a></li>
           <li>
             <a class="nav-link scrollto" href="{{route('gm.contact')}}">Contacto</a>
         </li>
