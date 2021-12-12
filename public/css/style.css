@@ -332,6 +332,8 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 100vh;
   background: url("../img/banner-01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   position: relative;
 }
 
@@ -356,16 +358,16 @@ h1, h2, h3, h4, h5, h6 {
 #hero h1 {
   margin: 0 0 30px 0;
   font-size: 48px;
-  font-weight: 500;
+  font-weight: bold;
   line-height: 56px;
   color: #fff;
 }
 
 #hero h2 {
-  color: #aeaeae;
+  color: black;
   margin-bottom: 30px;
   font-size: 14px;
-  font-weight: 400;
+  font-weight: bold;
   text-transform: uppercase;
 }
 
@@ -377,10 +379,10 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
   display: inline-block;
   padding: 14px 30px;
-  border-radius: 3px;
+  border-radius: 50px;
   margin: 10px;
   color: #fff;
-  background: #7cc576;
+  background: orange;
 }
 
 #hero .btn-get-started:hover {
@@ -463,7 +465,7 @@ section {
 .about .content ul i {
   font-size: 24px;
   padding: 2px 6px 0 0;
-  color: #7cc576;
+  color: orange;
 }
 
 .about .content p:last-child {
@@ -482,7 +484,7 @@ section {
 .services .icon-box i {
   font-size: 48px;
   float: left;
-  color: #7cc576;
+  color: orange;
 }
 
 .services .icon-box p {
@@ -524,7 +526,7 @@ section {
 }
 
 .featured .nav-link:hover h4 {
-  color: #7cc576;
+  color: orangered;
 }
 
 .featured .nav-link p {
@@ -537,7 +539,7 @@ section {
 }
 
 .featured .nav-link.active h4 {
-  color: #7cc576;
+  color: orange;
 }
 
 .featured .tab-pane.active {
@@ -631,7 +633,7 @@ section {
 }
 
 .why-us .accordion-list span {
-  color: #7cc576;
+  color: orange;
   font-weight: 600;
   font-size: 18px;
   padding-right: 10px;
@@ -658,7 +660,7 @@ section {
 }
 
 .why-us .accordion-list a.collapsed:hover {
-  color: #7cc576;
+  color: orange;
 }
 
 .why-us .accordion-list a.collapsed .icon-show {
@@ -810,7 +812,7 @@ section {
 }
 
 .portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
-  background: #7cc576;
+  background: orange;
   color: #fff;
 }
 
@@ -1028,11 +1030,11 @@ section {
 }
 
 .testimonials .quote-icon i {
-  color: #7cc576;
+  color: orange;
   font-size: 24px;
   padding: 18px;
   border-radius: 50px;
-  border: 2px solid #7cc576;
+  border: 2px solid orange;
 }
 
 .testimonials .testimonial-item {
@@ -1079,7 +1081,7 @@ section {
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #7cc576;
+  background-color: orange;
 }
 
 @media (min-width: 992px) {
@@ -1149,7 +1151,7 @@ section {
   height: 40px;
   opacity: 0;
   transition: bottom ease-in-out 0.4s;
-  background: rgba(124, 197, 118, 0.8);
+  background: orange;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1189,7 +1191,7 @@ section {
   text-transform: uppercase;
   font-weight: 400;
   margin-bottom: 15px;
-  color: #7cc576;
+  color: orange;
 }
 
 .team .member .member-info p {
@@ -1261,7 +1263,7 @@ section {
 }
 
 .pricing .box ul i {
-  color: #7cc576;
+  color: orange;
   font-size: 18px;
   padding-right: 4px;
 }
@@ -1280,8 +1282,8 @@ section {
   display: inline-block;
   padding: 10px 40px 12px 40px;
   border-radius: 5px;
-  border: 2px solid #7cc576;
-  color: #7cc576;
+  border: 2px solid orange;
+  color: orange;
   font-size: 14px;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
@@ -1295,11 +1297,11 @@ section {
 }
 
 .pricing .recommended {
-  border-color: #7cc576;
+  border-color: orange;
 }
 
 .pricing .recommended .btn-buy {
-  background: #7cc576;
+  background: orange;
   color: #fff;
 }
 
@@ -1316,8 +1318,8 @@ section {
   z-index: 1;
   font-size: 12px;
   padding: 4px 25px 6px 25px;
-  background: #eaf6e9;
-  color: #7cc576;
+  background: orange;
+  color: white;
   border-radius: 50px;
   text-transform: uppercase;
   font-weight: 600;
@@ -1650,7 +1652,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #7cc576;
+  background: orange;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1668,7 +1670,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #7cc576;
+  background: orange;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
