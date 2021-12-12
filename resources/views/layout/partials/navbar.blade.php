@@ -8,7 +8,7 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li>
-            <a class="nav-link scrollto active" href="{{route('gm.index')}}">Home</a>
+            <a class="nav-link scrollto" href="{{route('gm.index')}}">Home</a>
         </li>
           <li><a class="nav-link scrollto" href="#about">Sobre</a></li>
           <li><a class="nav-link scrollto" href="#services">Services</a></li>
@@ -19,7 +19,7 @@
           <li>
             <a class="nav-link scrollto" href="{{route('gm.contact')}}">Contacto</a>
         </li>
-        
+
         <i class="bi bi-list mobile-nav-toggle"></i>
         </ul>
       </nav><!-- .navbar -->
