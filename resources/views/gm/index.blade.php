@@ -207,7 +207,7 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <p>As melhores fotos estão presentes neste portfolio</p>
         </div>
 
         <div class="row" data-aos="fade-up" data-aos-delay="100">
@@ -216,7 +216,6 @@
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-app">Tipos</li>
               <li data-filter=".filter-card">Psicologia</li>
-              <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
         </div>
@@ -229,7 +228,7 @@
               <div class="portfolio-info">
                 <h4>Scalp</h4>
                 <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-1.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Scalp"><i class="bx bx-plus"></i></a>
+                  <a href="{{asset('img/gallery_img-01.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Curto tempo na operação é chamado: Scalping, gráficos geralmente utilizados M1 1minuto, M5 5minutos"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -242,7 +241,7 @@
               <div class="portfolio-info">
                 <h4>Day Trade</h4>
                 <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-2.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Day"><i class="bx bx-plus"></i></a>
+                  <a href="{{asset('img/gallery_img-02.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="O day trading consiste na compra e venda, ou venda e recompra de um mesmo ativo financeiro no mesmo dia "><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -255,7 +254,7 @@
               <div class="portfolio-info">
                 <h4>Swing Trade</h4>
                 <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-3.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Swing"><i class="bx bx-plus"></i></a>
+                  <a href="{{asset('img/gallery_img-03.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Tempo longo nas operações é chamado de Swing, podendo durar até mais que uma semana, gráficos usados H1 H4 D1."><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -268,7 +267,7 @@
               <div class="portfolio-info">
                 <h4>Position</h4>
                 <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-4.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Position"><i class="bx bx-plus"></i></a>
+                  <a href="{{asset('img/gallery_img-04.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Position"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -281,7 +280,7 @@
               <div class="portfolio-info">
                 <h4>Ambição</h4>
                 <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-5.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Ambição"><i class="bx bx-plus"></i></a>
+                  <a href="{{asset('img/gallery_img-05.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Grande desejo de realizar algo ou atingir alguma meta"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
@@ -294,54 +293,12 @@
               <div class="portfolio-info">
                 <h4>Ganância</h4>
                 <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-6.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Ganância"><i class="bx bx-plus"></i></a>
+                  <a href="{{asset('img/gallery_img-06.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title=" É a vontade exagerada de possuir qualquer coisa"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="{{asset('img/portfolio/portfolio-7.jpg')}}" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 1</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-7.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="{{asset('img/portfolio/portfolio-8.jpg')}}" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Card 3</h4>
-                <p>Card</p>
-                <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-8.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <div class="portfolio-wrap">
-              <img src="{{asset('img/portfolio/portfolio-9.jpg')}}" class="img-fluid" alt="">
-              <div class="portfolio-info">
-                <h4>Web 3</h4>
-                <p>Web</p>
-                <div class="portfolio-links">
-                  <a href="{{asset('img/portfolio/portfolio-9.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
+        </div>
 
         </div>
 
@@ -361,7 +318,7 @@
             <div class="swiper-slide">
               <div class="testimonial-item">
                 <p>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                 Treinamento muito bom, professor ótimo explicador, graças a ter feito este treinamento já consigo ver o quão bom é o mercado financeiro e as oportunidades que fornece.
                 </p>
                 <img src="{{asset('img/testimonials/testimonials-1.jpg')}}" class="testimonial-img" alt="">
                 <h3>Saul Goodman</h3>
