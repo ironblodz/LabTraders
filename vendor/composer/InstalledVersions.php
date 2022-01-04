@@ -25,12 +25,12 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'v8.6.9',
-    'version' => '8.6.9.0',
+    'pretty_version' => 'dev-lab',
+    'version' => 'dev-lab',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '3261042b53a71a4028f9b77db5079a86bfa56fc0',
     'name' => 'laravel/laravel',
   ),
   'versions' => 
@@ -43,6 +43,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '9cb795bf30988e8c96dd3c40623c48a877bc6714',
+    ),
+    'blade-ui-kit/blade-icons' => 
+    array (
+      'pretty_version' => '1.1.2',
+      'version' => '1.1.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '548869bc820a25f803530c82028482aefe08115f',
     ),
     'brick/math' => 
     array (
@@ -437,6 +446,13 @@ private static $installed = array (
         0 => 'v8.75.0',
       ),
     ),
+    'jfvoliveira/blade-boxicons' => 
+    array (
+      'replaced' => 
+      array (
+        0 => '1.1.2',
+      ),
+    ),
     'kodova/hamcrest-php' => 
     array (
       'replaced' => 
@@ -455,12 +471,12 @@ private static $installed = array (
     ),
     'laravel/laravel' => 
     array (
-      'pretty_version' => 'v8.6.9',
-      'version' => '8.6.9.0',
+      'pretty_version' => 'dev-lab',
+      'version' => 'dev-lab',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '3261042b53a71a4028f9b77db5079a86bfa56fc0',
     ),
     'laravel/sail' => 
     array (
@@ -533,6 +549,15 @@ private static $installed = array (
       array (
       ),
       'reference' => 'aa70e813a6ad3d1558fc927863d47309b4c23e69',
+    ),
+    'mallardduck/blade-boxicons' => 
+    array (
+      'pretty_version' => '2.1.2',
+      'version' => '2.1.2.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'db2fbb78aecc0a2e4d80d76158231e85dd179283',
     ),
     'mockery/mockery' => 
     array (
@@ -836,8 +861,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0|2.0',
-        1 => '1.0.0 || 2.0.0 || 3.0.0',
+        0 => '1.0.0 || 2.0.0 || 3.0.0',
+        1 => '1.0|2.0',
       ),
     ),
     'psr/simple-cache' => 

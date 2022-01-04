@@ -49,33 +49,33 @@
 
         <div class="section-title" data-aos="fade-up">
           <h2>Serviços</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <p>Todos os serviços que dispomos para o cliente</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6 order-2 order-lg-1">
             <div class="icon-box mt-5 mt-lg-0" data-aos="fade-up">
               <i class="bx bx-receipt"></i>
-              <h4>Est labore ad</h4>
-              <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+              <h4>Análise Fundamentalista</h4>
+              <p>A análise fundamentalista é o estudo da situação financeira e das perspectivas de uma empresa, com o objetivo de avaliar diferentes alternativas de investimento</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-cube-alt"></i>
-              <h4>Harum esse qui</h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+              <i class="bx bxs-analyse"></i>
+              <h4>Análise Técnica</h4>
+              <p>Análise Técnica é uma ferramenta utilizada tanto por especuladores (conhecidos como traders, operadores ou negociantes de mercado)</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
-              <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+              <i class="bx bx-money"></i>
+              <h4>Gestão do Capital</h4>
+              <p>Muito importante aprender a gerir o próprio capital e saber como investir com pés e cabeça</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+              <i class="bx bxl-trello"></i>
+              <h4>Comportamento do Mercado</h4>
+              <p>Observar como o mercado se comporta no decorrer dos dias</p>
             </div>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("{{asset('img/services.jpg')}}");' data-aos="fade-left" data-aos-delay="100"></div>
+          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("{{asset('img/115.jpg')}}");' data-aos="fade-left" data-aos-delay="100"></div>
         </div>
 
       </div>
@@ -274,7 +274,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="{{asset('img/gallery_img-05.jpg')}}" class="img-fluid" alt="">
               <div class="portfolio-info">
@@ -287,7 +287,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
               <img src="{{asset('img/gallery_img-06.jpg')}}" class="img-fluid" alt="">
               <div class="portfolio-info">

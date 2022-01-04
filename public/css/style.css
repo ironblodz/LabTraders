@@ -377,7 +377,7 @@ h6 {
     font-size: 48px;
     font-weight: bold;
     line-height: 56px;
-    color: #fff;
+    color: orange;
 }
 
 #hero h2 {
@@ -1033,7 +1033,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
     padding: 60px 0;
-    background: url("../img/testimonials-bg.jpg") no-repeat;
+    background: url("https://images.ctfassets.net/kp25gfur5p5i/75Vm5zrhO6VTqmKAhOIGSL/46e18b1d8acc6c5d1a33b2db8ee6762f/cryptoBT.png") no-repeat;
     background-position: center center;
     background-size: cover;
     position: relative;
