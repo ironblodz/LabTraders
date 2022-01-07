@@ -13,15 +13,21 @@ body {
     color: #555555;
 }
 
-a {
-    text-decoration: none;
-    color: orange;
-}
-
 a:hover {
     color: orange;
     text-decoration: none;
 }
+
+a:hover{
+    color: orange !important;
+}
+
+a.whywhy {
+    text-decoration: none !important;
+    color: black !important;
+}
+
+
 
 h1,
 h2,
@@ -543,7 +549,7 @@ section {
 }
 
 .featured .nav-link:hover h4 {
-    color: orangered;
+    color: orange;
 }
 
 .featured .nav-link p {
@@ -691,7 +697,7 @@ section {
 .why-us .play-btn {
     width: 94px;
     height: 94px;
-    background: radial-gradient(orange 50%, #ffbf00  52%);
+    background: radial-gradient(orange 50%, #ffbf00 52%);
     border-radius: 50%;
     display: block;
     position: absolute;
@@ -1033,7 +1039,8 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
     padding: 60px 0;
-    background: url("https://images.ctfassets.net/kp25gfur5p5i/75Vm5zrhO6VTqmKAhOIGSL/46e18b1d8acc6c5d1a33b2db8ee6762f/cryptoBT.png") no-repeat;
+    background: url("https://images.ctfassets.net/kp25gfur5p5i/75Vm5zrhO6VTqmKAhOIGSL/46e18b1d8acc6c5d1a33b2db8ee6762f/cryptoBT.png")
+        no-repeat;
     background-position: center center;
     background-size: cover;
     position: relative;

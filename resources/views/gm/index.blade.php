@@ -75,7 +75,7 @@
               <p>Observar como o mercado se comporta no decorrer dos dias</p>
             </div>
           </div>
-          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("{{asset('img/115.jpg')}}");' data-aos="fade-left" data-aos-delay="100"></div>
+          <div class="image col-lg-6 order-1 order-lg-2" style='background-image: url("https://i1.wp.com/desenvolvimentes.com.br/wp-content/uploads/2019/01/desenvolvimentes_mentoria_financeira.png?resize=600%2C437&ssl=1' data-aos="fade-left" data-aos-delay="100"></div>
         </div>
 
       </div>
@@ -90,50 +90,40 @@
             <div class="tab-content">
               <div class="tab-pane active show" id="tab-1">
                 <figure>
-                  <img src="{{asset('img/featured-1.png')}}" alt="" class="img-fluid">
+                  <img src="https://criptomoedaspro.com.br/wp-content/uploads/2020/07/criptomoedas-03.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-2">
                 <figure>
-                  <img src="{{asset('img/featured-2.png')}}" alt="" class="img-fluid">
+                  <img src="https://mikesmoneytalks.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/10/31213025/faang.png" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-3">
                 <figure>
-                  <img src="{{asset('img/featured-3.png')}}" alt="" class="img-fluid">
+                  <img src="https://wforex.com/sites/all/themes/clean_theme/i/slider/slide-1-graph.png" alt="" class="img-fluid">
                 </figure>
               </div>
-              <div class="tab-pane" id="tab-4">
-                <figure>
-                  <img src="{{asset('img/featured-4.png')}}" alt="" class="img-fluid">
-                </figure>
-              </div>
+
             </div>
           </div>
           <div class="col-lg-6 mt-4 mt-lg-0" data-aos="fade-left">
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
                 <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">
-                  <h4>Modi sit est</h4>
-                  <p>Quis excepturi porro totam sint earum quo nulla perspiciatis eius.</p>
+                  <h4>Mercado de Criptmoedas</h4>
+                  <p>Mercado de compra e venda de moedas digitais, com muitas oportunidades</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-2">
-                  <h4>Unde praesentium sed</h4>
-                  <p>Voluptas vel esse repudiandae quo excepturi.</p>
+                  <h4>Mercado de Ações</h4>
+                  <p>Mercado tradicional de compra e venda de ações de empresas</p>
                 </a>
               </li>
               <li class="nav-item mt-2">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-3">
-                  <h4>Pariatur explicabo vel</h4>
-                  <p>Velit veniam ipsa sit nihil blanditiis mollitia natus.</p>
-                </a>
-              </li>
-              <li class="nav-item mt-2">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">
-                  <h4>Nostrum qui quasi</h4>
-                  <p>Ratione hic sapiente nostrum doloremque illum nulla praesentium id</p>
+                  <h4>Mercado de Forex</h4>
+                  <p>O mercado mais antigo, compra e venda entre moedas reais</p>
                 </a>
               </li>
             </ul>
@@ -152,25 +142,25 @@
           <div class="col-lg-7 order-2 order-lg-1 d-flex flex-column justify-content-center align-items-stretch">
 
             <div class="content" data-aos="fade-up">
-              <h3>Eum ipsam laborum deleniti <strong>velit pariatur architecto aut nihil</strong></h3>
+              <h3>Uma pequena apresentação em video de nós</strong></h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Clique no botão laranja que está disponivel no seu lado direito e veja com atenção
               </p>
             </div>
 
             <div class="accordion-list">
               <ul>
                 <li data-aos="fade-up" data-aos-delay="100">
-                  <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1"><span>01</span> Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" class="collapse whywhy" data-bs-target="#accordion-list-1"><span>01</span>O mercado financeiro oferece-nos enumeras oportunidades? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
                     <p>
-                      Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                      Obvio que sim, basta estar preparado e aproveitar as boas oportunidades que aparecem.
                     </p>
                   </div>
                 </li>
 
                 <li data-aos="fade-up" data-aos-delay="200">
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed"><span>02</span> Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed whywhy"><span>02</span> Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                     <p>
                       Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
@@ -179,7 +169,7 @@
                 </li>
 
                 <li data-aos="fade-up" data-aos-delay="300">
-                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed"><span>03</span> Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+                  <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3" class="collapsed whywhy"><span>03</span> Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
                   <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
                     <p>
                       Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
@@ -192,8 +182,8 @@
 
           </div>
 
-          <div class="col-lg-5 order-1 order-lg-2 align-items-stretch video-box" style='background-image: url("{{asset('img/why-us.jpg')}}");' data-aos="zoom-in">
-            <a href="https://www.youtube.com/watch?v=LIqQNG_q2us" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+          <div class="col-lg-5 order-1 order-lg-2 align-items-stretch video-box" style='background-image: url("{{asset('img/lab.jpg')}}");' data-aos="zoom-in">
+            <a href="https://www.youtube.com/watch?v=orayrF_6A8A" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
           </div>
 
         </div>
@@ -377,40 +367,7 @@
       </div>
     </section><!-- End Testimonials Section -->
 
-    <!-- ======= Clients Section ======= -->
-    <section id="clients" class="clients">
-      <div class="container">
 
-        <div class="row">
-
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in">
-            <img src="{{asset('img/clients/client-1.png')}}" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="100">
-            <img src="{{asset('img/clients/client-2.png')}}" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="200">
-            <img src="{{asset('img/clients/client-3.png')}}" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="300">
-            <img src="{{asset('img/clients/client-4.png')}}" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="400">
-            <img src="{{asset('img/clients/client-5.png')}}" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6" data-aos="zoom-in" data-aos-delay="500">
-            <img src="{{asset('img/clients/client-6.png')}}" class="img-fluid" alt="">
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Clients Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team">
