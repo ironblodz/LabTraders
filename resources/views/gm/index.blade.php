@@ -182,7 +182,7 @@
 
           </div>
 
-          <div class="col-lg-5 order-1 order-lg-2 align-items-stretch video-box" style='background-image: url("{{asset('img/lab.jpg')}}");' data-aos="zoom-in">
+          <div class="col-lg-5 order-1 order-lg-2 align-items-stretch video-box" style='background-image: url("{{asset('img/banner-01.jpg')}}");' data-aos="zoom-in">
             <a href="https://www.youtube.com/watch?v=orayrF_6A8A" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
           </div>
 
@@ -374,32 +374,13 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h2>A nossa equipa</h2>
-          <p>Magnam dolores commodi suscipit eius consequatur ex aliquid fuga eum quidem</p>
+          <h2>Trader Profissional</h2>
+          <p>8 anos de muita experiência</p>
         </div>
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in">
-              <div class="member-img">
-                <img src="{{asset('img/team/team-1.jpg')}}" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Damião Granada</h4>
-                <span>Web Designer</span>
-                <p>Animi est delectus alias quam repellendus nihil nobis dolor. Est sapiente occaecati et dolore. Omnis aut ut nesciunt explicabo qui. Eius nam deleniti ut omnis</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 andre">
             <div class="member" data-aos="zoom-in" data-aos-delay="100">
               <div class="member-img">
                 <img src="{{asset('img/img-2.jpg')}}" class="img-fluid" alt="">
@@ -414,25 +395,6 @@
                 <h4>André Oliveira</h4>
                 <span>CEO</span>
                 <p>Aspernatur iste esse aliquam enim et corporis. Molestiae voluptatem aut eligendi quis aut. Libero vel amet voluptatem eos rerum non doloremque</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-            <div class="member" data-aos="zoom-in" data-aos-delay="200">
-              <div class="member-img">
-                <img src="{{asset('img/img-1.jpg')}}" class="img-fluid" alt="">
-                <div class="social">
-                  <a href=""><i class="bi bi-twitter"></i></a>
-                  <a href=""><i class="bi bi-facebook"></i></a>
-                  <a href=""><i class="bi bi-instagram"></i></a>
-                  <a href=""><i class="bi bi-linkedin"></i></a>
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>João Peres</h4>
-                <span>web Developer</span>
-                <p>Ut enim possimus nihil cupiditate beatae. Veniam facere quae non qui necessitatibus rerum eos vero. Maxime sit sunt quo dolor autem est qui quaerat</p>
               </div>
             </div>
           </div>

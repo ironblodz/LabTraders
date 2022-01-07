@@ -20,6 +20,7 @@ a:hover {
 
 a:hover{
     color: orange !important;
+
 }
 
 a.whywhy {
@@ -1239,6 +1240,13 @@ section {
     transition: bottom ease-in-out 0.4s;
 }
 
+
+
+.team .row{
+    display: flex !important;;
+    align-items: center!important;
+    justify-content: center !important;
+}
 /*--------------------------------------------------------------
 # Pricing
 --------------------------------------------------------------*/
